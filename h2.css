@@ -1,0 +1,12 @@
+ body {
+            background-image: url(https://html.com/wp-content/uploads/very-large-flamingo.jpg);
+        }
+       .box {
+        border: 2px solid violet;
+        padding: 10px;
+        margin: 10px 0;
+        background-color: bisque;
+        text-align: center;
+        border-radius: 60px;
+        border-color: black;
+       }

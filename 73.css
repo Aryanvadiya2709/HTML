@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  font-family: arial;
+  border: border-box;
+}
+.navbar{
+  height: 60px;;
+  background-color:azure
+}
+.nav-logo{
+  height: 50px; 
+  width: 100px;
+}
+.logo{
+  background-image: url(Flipkart.png.jpg);
+  background-size:cover;
+   height: 50px; 
+  width: 100px;
+}
