@@ -8,12 +8,12 @@
   background-color:azure
 }
 .nav-logo{
-  height: 50px; 
-  width: 100px;
+   height: 160px; 
+  width: 40px;;
 }
 .logo{
-  background-image: url(Flipkart.png.jpg);
+  background-image: url("https://static-assets-web.flixcart.com/batman-returns/batman-returns/p/images/fkheaderlogo_exploreplus-44005d.svg");
   background-size:cover;
-   height: 50px; 
-  width: 100px;
+   height:160px; 
+  width: 40px;;
 }
