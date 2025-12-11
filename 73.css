@@ -506,6 +506,10 @@ footer{
     padding: 100px;
     margin: auto;
 }
+span{
+    margin-left: 15px;
+
+}
 .footer{
     display: flex;
     color: white;
